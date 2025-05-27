@@ -66,3 +66,9 @@ RequiresCode=false
     <code>C:\YourLocation\SimpleLauncher\SimpleLauncher.exe</code>
   </li>
 </ol>
+
+## ☕ Like this project?
+
+You can support me on Ko-fi – no account needed, and it keeps both of us private!
+
+[![Ko-fi](https://img.shields.io/badge/Donate-Ko--fi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Dictator5869)
