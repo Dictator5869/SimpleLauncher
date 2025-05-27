@@ -1,4 +1,6 @@
 <h1>SimpleLauncher</h1>
+<img src=https://github.com/user-attachments/assets/4a05a667-1267-47c9-8af9-950d65be37c9 alt="SimpleLauncher Logo" width="300">
+
 <p><strong>Version 2 Now Available</strong></p>
 
 <p><strong>SimpleLauncher</strong> is a lightweight, customizable Windows launcher designed for children. It provides a controlled environment where only approved applications are accessible—without needing a Microsoft account or registry tweaks.</p>
