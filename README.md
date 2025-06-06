@@ -58,8 +58,6 @@ RequiresCode=false
 
 <h2>📁 Legacy Info: Version 1 (End of Life)</h2>
 
-![Simple-Launcher-v1-Background](https://github.com/user-attachments/assets/d99fd101-af7a-4c2b-b3f7-5e1bba5e0277)
-
 <p>Version 1 required modifying the system shell to launch SimpleLauncher instead of Explorer. This is no longer needed in Version 2.</p>
 
 <h3>🧾 Shell Replacement (V1 Only)</h3>
