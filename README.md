@@ -3,10 +3,9 @@
 
 <p><strong>Version 2 Now Available</strong></p>
 
-![SimpleLauncher-Example](https://github.com/user-attachments/assets/1083d80c-a564-4a07-9a7b-d9a4b171eb42)
+![Simple-Launcher-v2](https://github.com/user-attachments/assets/dfdbecb6-25f8-45c5-812b-f0d34214a5dd)
 
-![SimpleLauncher-Example-Parent-Code](https://github.com/user-attachments/assets/7a27f4be-d987-472e-a476-a8078fdbe84e)
-
+![Simple-Launcher-v2-Parental](https://github.com/user-attachments/assets/0beedeef-42e2-4e27-bd20-fe152bacdff4)
 
 <p><strong>SimpleLauncher</strong> is a lightweight, customizable Windows launcher designed for children. It provides a controlled environment where only approved applications are accessible—without needing a Microsoft account or registry tweaks.</p>
 
@@ -59,7 +58,7 @@ RequiresCode=false
 
 <h2>📁 Legacy Info: Version 1 (End of Life)</h2>
 
-![SimpleLauncher-V1](https://github.com/user-attachments/assets/257fd320-bbf6-458a-96e7-1875e88b323f)
+![Simple-Launcher-v1-Background](https://github.com/user-attachments/assets/d99fd101-af7a-4c2b-b3f7-5e1bba5e0277)
 
 <p>Version 1 required modifying the system shell to launch SimpleLauncher instead of Explorer. This is no longer needed in Version 2.</p>
 
