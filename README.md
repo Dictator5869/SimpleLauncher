@@ -1,5 +1,4 @@
-<h1>SimpleLauncher</h1>
-<img src=https://github.com/user-attachments/assets/4a05a667-1267-47c9-8af9-950d65be37c9 alt="SimpleLauncher Logo" width="300">
+<h1><img src=https://github.com/user-attachments/assets/4a05a667-1267-47c9-8af9-950d65be37c9 alt="SimpleLauncher Logo" width="30"> SimpleLauncher</h1> 
 
 <p><strong>Version 2 Now Available</strong></p>
 
