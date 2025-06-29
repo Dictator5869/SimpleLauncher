@@ -4,7 +4,7 @@ name: ⚙️ Configuration Help
 
 about: Ask for help setting up or customizing SimpleLauncher
 
-title: "\[Config] "
+title: "[Config] "
 
 labels: question
 

@@ -4,7 +4,7 @@ name: 🐛 Bug Report
 
 about: Report a bug or issue with SimpleLauncher
 
-title: "\[Bug] "
+title: "[Bug] "
 
 labels: bug
 
