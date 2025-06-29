@@ -1,0 +1,23 @@
+blank_issues_enabled: false
+contact_links: []
+
+issue_templates:
+  - name: 🐛 Bug Report
+    description: Report a bug or problem you found in SimpleLauncher
+    labels: [bug]
+    file: bug_report.md
+
+  - name: 💡 Feature Request
+    description: Suggest a new idea or improvement for SimpleLauncher
+    labels: [enhancement]
+    file: feature_request.md
+
+  - name: ⚙️ Configuration Help
+    description: Ask for help setting up or customizing SimpleLauncher
+    labels: [question]
+    file: config_question.md
+
+  - name: 🆘 General Help
+    description: Ask anything else not covered by bugs or feature requests
+    labels: [question]
+    file: general_help.md
